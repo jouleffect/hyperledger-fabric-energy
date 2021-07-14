@@ -4,6 +4,8 @@
 
 This project has been realized for the Cybersecurity course, hold at the University of Palermo.
 
+Read the file "relazione-tecnica.pdf" for more info.
+
 
 ### How to use:
 
