@@ -1,4 +1,6 @@
 # hyperledger-fabric-energy
+![Schermata da 2021-07-14 08-52-44](https://user-images.githubusercontent.com/53179989/125576834-4e4b1d2f-9e93-4639-8653-bf7dfdfea212.png)
+
 
 This project has been realized for the Cybersecurity course, hold at the University of Palermo.
 
